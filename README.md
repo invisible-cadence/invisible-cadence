@@ -8,9 +8,9 @@ The aim is not maximum productivity. It is fewer things to remember, so there is
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [buying-list](https://github.com/invisible-cadence/buying-list) | A shared household buying list, installed on your phone, that tracks things from idea to bought and does the product research for you. | Building |
+| [buying-list](https://github.com/invisible-cadence/buying-list) | A shared household buying list, installed on your phone, that tracks things from idea to bought and does the product research for you. [See what it looks like.](https://github.com/invisible-cadence/buying-list#what-it-looks-like) | Building, and in trial use |
 
-**Building** means approved and in progress. **Live** means in everyday use. **Parked** means on hold, with a line on why.
+**Building** means approved and in progress, and **in trial use** means a working version is in real use while the rest is built. **Live** means in everyday use. **Parked** means on hold, with a line on why.
 
 ## How these are built
 
